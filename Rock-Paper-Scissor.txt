@@ -18,7 +18,6 @@ public class Main
     } 
 	
   
-    
     public static int Show_screen()
     {   int user_choice;
          pattern_1();
