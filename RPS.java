@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Random;
 import java.io.Console;
 
-public class Main {
+public class RPS {
 
 	public static void pattern_1() {
 		System.out.println("\t");
